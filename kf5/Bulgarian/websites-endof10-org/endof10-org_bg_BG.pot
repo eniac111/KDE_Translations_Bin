@@ -1,0 +1,1960 @@
+#
+# SPDX-FileCopyrightText: 2026 Blagovest Petrov <blagovest@petrovs.info>
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-endof10-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-12-22 02:01+0000\n"
+"PO-Revision-Date: 2026-02-09 08:31+0200\n"
+"Last-Translator: Blagovest Petrov <blagovest@petrovs.info>\n"
+"Language-Team: Bulgarian <kde-i18n-doc@kde.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 25.08.3\n"
+
+#: config.yaml:0 content/_index.md:0
+msgid "End of 10"
+msgstr "Краят на 10"
+
+#: content/_index.md:0
+msgid ""
+"Extended support for Windows 10 ends in 2026. Don't buy a new PC — revive "
+"yours with Linux. It's fast, secure, and help is available to get you "
+"started."
+msgstr ""
+"Разширената поддръжка за Windows 10 приключва през 2026 г. Не купувайте нов "
+"компютър — съживете вашия с Linux. Бърз е, сигурен е и има налична помощ, "
+"за да започнете."
+
+#: content/_index.md:0
+msgid "/laptop-thumbnail.png"
+msgstr "/laptop-thumbnail.png"
+
+#: content/_index.md:8
+msgid "Use your old computer but with fresh new software."
+msgstr "Използвайте стария си компютър, но с нов софтуер."
+
+#: content/_index.md:10
+msgid ""
+"Extended support for Windows 10 "
+"[ends](https://endof10.org/press/2025-10-04-extended-campaign/) on October "
+"13, 2026."
+msgstr ""
+"Разширената поддръжка за Windows 10 "
+"[приключва](https://endof10.org/press/2025-10-04-extended-campaign/) на 13 "
+"октомври 2026 г."
+
+#: content/_index.md:12
+msgid "Microsoft wants you to buy a new computer."
+msgstr "Microsoft иска да си купите нов компютър."
+
+#: content/_index.md:14
+msgid "But what if you could make your current one fast and secure again?"
+msgstr "Ами, ако можехте да направите текущия си отново бърз и сигурен?"
+
+#: content/_index.md:18
+msgid ""
+"If you bought your computer after 2010, there's most likely no reason to "
+"throw it out. By just installing an up-to-date Linux operating system you "
+"can keep using it for years to come."
+msgstr ""
+"Ако сте купили компютъра си след 2010 г., най-вероятно няма причина да го "
+"изхвърляте. Като просто инсталирате актуална Linux операционна система, "
+"можете да продължите да го използвате още дълги години."
+
+#: content/_index.md:22
+msgid ""
+"Installing an operating system may sound difficult, but you don't have to do"
+" it alone. With any luck, there are people in your area ready to help!"
+msgstr ""
+"Инсталирането на операционна система може да звучи трудно, но не е "
+"необходимо да го правите сами. Вероятно има хора във вашия район, готови да "
+"помогнат!"
+
+#: content/_index.md:28
+msgid "Find someone to help&nbsp;you"
+msgstr "Намерете някой, за да ви&nbsp;помогне"
+
+#: content/_index.md:32
+msgid "[Install Linux yourself →](/install)"
+msgstr "[Инсталирайте Linux сами →](/install)"
+
+#: content/_index.md:36
+msgid ""
+"Would you like to help others keep their computer alive after "
+"Windows&nbsp;10?"
+msgstr ""
+"Искате ли да помогнете на други да запазят компютрите си живи след "
+"Windows&nbsp;10?"
+
+#: content/_index.md:40
+msgid "Sign up as repair collective"
+msgstr "Регистрирайте се като ремонтен колектив"
+
+#: content/_index.md:48
+msgid "**5 Reasons** to upgrade your old computer to Linux"
+msgstr "**5 причини** да надградите стария си компютър с Linux"
+
+#: content/_index.md:50 content/press/2025-05-28-press-release/index.md:38
+msgid ""
+"**No New Hardware, No Licensing Costs**{{< br >}} A new laptop costs a lot "
+"of money, but several Linux operating systems are available for free. "
+"Software updates are also free, forever. You can of course show your support"
+" with donations!"
+msgstr ""
+"**Без нов хардуер, без разходи за лицензи**{{< br >}} Нов лаптоп струва "
+"много пари, но няколко Linux операционни системи са налични безплатно. "
+"Актуализациите на софтуера също са безплатни, завинаги. Разбира се, можете "
+"да покажете своята подкрепа чрез дарения!"
+
+#: content/_index.md:54 content/press/2025-05-28-press-release/index.md:42
+msgid ""
+"**Enhanced Privacy**{{< br >}} Windows comes with lots of ads and spyware. "
+"This slows down your computer, lets companies spy on you, and increases your"
+" energy bills."
+msgstr ""
+"**Подобрена поверителност**{{< br >}} Windows идва с много реклами и шпионски "
+"софтуер. Това забавя компютъра Ви, позволява на компаниите да Ви шпионират "
+"и увеличава сметките Ви за електричество."
+
+#: content/_index.md:57 content/press/2025-05-28-press-release/index.md:45
+msgid ""
+"**Good For The Planet**{{< br >}} Production of a computer accounts for 75+%"
+" of carbon emissions over its lifecycle. Keeping a functioning device longer"
+" is a hugely effective way to reduce emissions. With a Linux operating "
+"system you can use your device longer."
+msgstr ""
+"**Добро за планетата**{{< br >}} Производството на компютър представлява "
+"над 75% от въглеродните емисии през целия му жизнен цикъл. Използването на "
+"работещо устройство по-дълго е изключително ефективен начин за намаляване "
+"на емисиите. С Linux операционна система можете да използвате устройството "
+"си по-дълго."
+
+#: content/_index.md:61 content/press/2025-05-28-press-release/index.md:49
+msgid ""
+"**Community & Professional Support**{{< br >}} There are local repair cafes "
+"and independent, professional services and computer shops available for "
+"providing you help. You can find support in online forums, too."
+msgstr ""
+"**Поддръжка от общността и професионалисти**{{< br >}} Има местни кафенета "
+"за ремонт и независими, професионални услуги и компютърни магазини, които "
+"могат да Ви помогнат. Можете да намерите подкрепа и в онлайн форуми."
+
+#: content/_index.md:65 content/press/2025-05-28-press-release/index.md:53
+msgid ""
+"**Better User Control**{{< br >}} Linux grants you the four freedoms of "
+"software. You are free to use, study, share, and improve the program, for as"
+" long as you wish. You are in control of your device."
+msgstr ""
+"**По-добър контрол за потребителя**{{< br >}} Linux ви предоставя четирите "
+"свободи на софтуера. Свободни сте да използвате, изучавате, споделяте и "
+"подобрявате програмата, колкото желаете. Вие контролирате устройството си."
+
+#: content/_index.md:69
+msgid "Supporters"
+msgstr "Поддръжници"
+
+#: content/_index.md:71
+msgid ""
+"These organizations (listed alphabetically) have joined us in support of the"
+" campaign."
+msgstr ""
+"Тези организации (изброени по азбучен ред) са се присъединили към нас в "
+"подкрепа на кампанията."
+
+#: content/_index.md:75
+msgid "Convinced?"
+msgstr "Убедени ли сте?"
+
+#: content/_index.md:77
+msgid ""
+"Then find your closest repair cafe or independent computer shop and enjoy "
+"your brand-new, old computer!"
+msgstr ""
+"Тогава намерете най-близкото кафене за ремонт или независим компютърен "
+"магазин и се насладете на вашия чисто нов, стар компютър!"
+
+#: content/_index.md:82
+msgid "Repair your old computer"
+msgstr "Ремонтирайте стария си компютър"
+
+#: content/contribute.md:0
+msgid "Contribute"
+msgstr "Допринесете"
+
+#: content/contribute.md:0
+msgid "Add a place or event"
+msgstr "Добавете място или събитие"
+
+#: content/contribute.md:9
+msgid ""
+"When can I publish our repair café or independent computer shop at "
+"endof10.org?"
+msgstr ""
+"Кога мога да публикувам нашето кафене за ремонт или независим компютърен "
+"магазин в endof10.org?"
+
+#: content/contribute.md:11
+msgid "If you offer Linux help, you can add your location right now!"
+msgstr ""
+"Ако предлагате помощ с Linux, можете да добавите местоположението си веднага!"
+
+#: content/contribute.md:13
+msgid ""
+"A description of the information we need [for "
+"places](https://invent.kde.org/websites/endof10-org#places) and [for "
+"events](https://invent.kde.org/websites/endof10-org#events) can be found at "
+"the Git repository's README. Send the information by email to endof10 [at] "
+"lists.posteo.de. If you can, help us out by providing that information in "
+"JSON format."
+msgstr ""
+"Описание на необходимата информация [за "
+"места](https://invent.kde.org/websites/endof10-org#places) и [за "
+"събития](https://invent.kde.org/websites/endof10-org#events) може да бъде "
+"намерено в README файла на Git хранилището. Изпратете информацията по имейл "
+"на endof10 [at] lists.posteo.de. Ако можете, помогнете ни, като предоставите "
+"тази информация в JSON формат."
+
+#: content/contribute.md:20
+msgid ""
+"If you have the technical know-how, you can also make a [Merge "
+"Request](https://invent.kde.org/websites/endof10-org/-/tree/master/data) "
+"yourself at the End Of 10 website's repository."
+msgstr ""
+"Ако имате техническите познания, можете също да направите [заявка за "
+"сливане](https://invent.kde.org/websites/endof10-org/-/tree/master/data) "
+"сами в хранилището на уебсайта End Of 10."
+
+#: content/contribute.md:24
+msgid ""
+"See the [FAQ](https://endof10.org/faq#i-like-to-help-people-install-linux-"
+"but-i-am-not-a-part-of-any-group-can-i-be-listed-anyway) for why we list "
+"organizations, not individuals."
+msgstr ""
+"Вижте [ЧЗВ](https://endof10.org/faq#i-like-to-help-people-install-linux-"
+"but-i-am-not-a-part-of-any-group-can-i-be-listed-anyway) за причините да "
+"изброяваме организации, а не отделни хора."
+
+#: content/contribute.md:26
+msgid "How can I get involved with the campaign?"
+msgstr "Как мога да се включа в кампанията?"
+
+#: content/contribute.md:28
+msgid ""
+"There are many ways to get involved! Contact us so we can coordinate your "
+"efforts with ours."
+msgstr ""
+"Има много начини да се включите! Свържете се с нас, за да можем да "
+"координираме усилията Ви с нашите."
+
+#: content/contribute.md:30
+msgid ""
+"Contact repair cafes and independent computer shops [offering Linux "
+"support](https://endof10.org/faq#is-there-any-way-at-all-i-can-offer-linux-"
+"support-as-an-individual) and put them in touch with us"
+msgstr ""
+"Свържете се с кафенета за ремонт и независими компютърни магазини, "
+"[предлагащи поддръжка на Linux](https://endof10.org/faq#is-there-any-way-at-"
+"all-i-can-offer-linux-support-as-an-individual) и ги свържете с нас"
+
+#: content/contribute.md:31
+msgid ""
+"[Organize an installation event](https://endof10.org/faq#how-do-i-organize-"
+"an-install-party) or [start a Repair Cafe](https://endof10.org/faq#how-do-i-"
+"organize-a-repair-cafe?) and let us know about it"
+msgstr ""
+"[Организирайте събитие за инсталация](https://endof10.org/faq#how-do-i-"
+"organize-an-install-party) или [стартирайте кафене за "
+"ремонт](https://endof10.org/faq#how-do-i-organize-a-repair-cafe?) и ни "
+"уведомете за това"
+
+#: content/contribute.md:32
+msgid ""
+"Design materials for new users such as guides, [promotional "
+"materials](https://endof10.org/faq#do-you-have-ads-flyers-posters-jingles-"
+"etc-for-advertising-the-end-of-10-campaign), etc."
+msgstr ""
+"Създавайте материали за нови потребители като ръководства, [промоционални "
+"материали](https://endof10.org/faq#do-you-have-ads-flyers-posters-jingles-"
+"etc-for-advertising-the-end-of-10-campaign) и др."
+
+#: content/contribute.md:33
+msgid ""
+"[Distribute materials](https://endof10.org/faq#can-i-still-help-if-i-do-not-"
+"have-time-to-organize-an-install-event-or-repair-cafe) in cafes, shops, "
+"universities, schools in your area"
+msgstr ""
+"[Разпространявайте материали](https://endof10.org/faq#can-i-still-help-if-i-"
+"do-not-have-time-to-organize-an-install-event-or-repair-cafe) в кафенета, "
+"магазини, университети, училища във вашия район"
+
+#: content/contribute.md:34
+msgid ""
+"Boost the campaign's online presence by sharing [our social "
+"media](https://endof10.org/faq#is-the-campaign-active-on-social-media) posts"
+" on your preferred platforms"
+msgstr ""
+"Увеличете онлайн присъствието на кампанията, като споделяте [нашите "
+"публикации в социалните медии](https://endof10.org/faq#is-the-campaign-"
+"active-on-social-media) на предпочитаните от вас платформи"
+
+#: content/contribute.md:35
+msgid "Translate the website (more below), promotional materials, etc."
+msgstr "Превеждайте уебсайта (повече по-долу), промоционални материали и др."
+
+#: content/contribute.md:36
+msgid ""
+"Volunteer with [FOSS communities](https://endof10.org/#supporters) "
+"participating in the campaign (improving documentation, software debugging, "
+"design)"
+msgstr ""
+"Станете доброволец в [FOSS общности](https://endof10.org/#supporters), "
+"участващи в кампанията (подобряване на документация, отстраняване на грешки "
+"в софтуера, дизайн)"
+
+#: content/contribute.md:38
+msgid "\\<your ideas\\>"
+msgstr "\\<Вашите идеи\\>"
+
+#: content/contribute.md:40
+msgid "Which communication platforms do the End Of 10 campaign organizers use?"
+msgstr ""
+"Кои комуникационни платформи използват организаторите на кампанията End Of 10?"
+
+#: content/contribute.md:42
+msgid ""
+"Write us at one of these public channels, introduce yourself, and let us "
+"know how you'd like to get involved:"
+msgstr ""
+"Пишете ни в един от тези публични канали, представете се и ни кажете как "
+"бихте искали да се включите:"
+
+#: content/contribute.md:45
+msgid "Matrix: https://matrix.to/#/#endof10:kde.org"
+msgstr "Matrix: https://matrix.to/#/#endof10:kde.org"
+
+#: content/contribute.md:46
+msgid "Mailing list: https://lists.posteo.de/listinfo/endof10"
+msgstr "Пощенски списък: https://lists.posteo.de/listinfo/endof10"
+
+#: content/contribute.md:48
+msgid ""
+"You can also find us on the Fediverse. Campaign hashtags are #EndOf10 and "
+"#EO10Challenges."
+msgstr ""
+"Можете да ни намерите и във Fediverse. Хаштаговете на кампанията са #EndOf10 "
+"и #EO10Challenges."
+
+#: content/contribute.md:50
+msgid "Mastodon: https://floss.social/@endof10"
+msgstr "Mastodon: https://floss.social/@endof10"
+
+#: content/contribute.md:52
+msgid "How can I help with the translation of the endof10.org website?"
+msgstr "Как мога да помогна с превода на уебсайта endof10.org?"
+
+#: content/contribute.md:54
+msgid ""
+"The website is hosted by KDE and follows the translation workflow used for "
+"all of KDE's websites."
+msgstr ""
+"Уебсайтът се хоства от KDE и следва работния процес за превод, използван за "
+"всички уебсайтове на KDE."
+
+#: content/contribute.md:57
+msgid "Find your language team: https://l10n.kde.org/."
+msgstr "Намерете Вашия езиков екип: https://l10n.kde.org/."
+
+#: content/contribute.md:60
+msgid ""
+"Learn about the process: https://community.kde.org/Get_Involved/translation"
+msgstr "Научете за процеса: https://community.kde.org/Get_Involved/translation"
+
+#: content/events/_index.md:0
+msgid "Upcoming Events"
+msgstr "Предстоящи събития"
+
+#: content/events/_index.md:0
+msgid "Events"
+msgstr "Събития"
+
+#: content/events/_index.md:12
+msgid ""
+"Here is a list of events where you can get help with Linux. You can also "
+"look for [places](/places/) that provide help more regularly. Please note "
+"that the information here is submitted by the organizers themselves and is "
+"not evaluated by the campaign. Responsibility for a device is with the "
+"owner. For corrections or concerns, please [contact "
+"us](https://endof10.org/contribute/#which-communication-platforms-does-the-"
+"end-of-10-campaign-use)."
+msgstr ""
+"Ето списък със събития, където можете да получите помощ с Linux. Можете "
+"също да потърсите [места](/places/), които предоставят помощ по-редовно. "
+"Моля, имайте предвид, че информацията тук е предоставена от самите "
+"организатори и не е оценена от кампанията. Отговорността за устройството е "
+"на собственика. За корекции или опасения, моля, [свържете се с "
+"нас](https://endof10.org/contribute/#which-communication-platforms-does-the-"
+"end-of-10-campaign-use)."
+
+#: content/events/_index.md:24
+msgid "Add your event"
+msgstr "Добавете Вашето събитие"
+
+#: content/faq.md:0
+msgid "Frequently Asked Questions"
+msgstr "Често задавани въпроси"
+
+#: content/faq.md:0
+msgid "FAQ"
+msgstr "ЧЗВ"
+
+#: content/faq.md:9
+msgid "Table Of Contents"
+msgstr "Съдържание"
+
+#: content/faq.md:11
+msgid "1\\. [Campaign Information](#campaign-info)"
+msgstr "1\\. [Информация за кампанията](#campaign-info)"
+
+#: content/faq.md:12
+msgid "2\\. [Linux Installation](#linux-installation)"
+msgstr "2\\. [Инсталация на Linux](#linux-installation)"
+
+#: content/faq.md:13
+msgid "3\\. [Outreach & Promotion](#outreach-promotion)"
+msgstr "3\\. [Разширяване и промоция](#outreach-promotion)"
+
+#: content/faq.md:16
+msgid "1. Campaign Information"
+msgstr "1. Информация за кампанията"
+
+#: content/faq.md:18
+msgid "Why isn't \\<INSERT FAVORITE DISTRO\\> promoted on the website?"
+msgstr "Защо \\<ВМЪКНЕТЕ ЛЮБИМА ДИСТРИБУЦИЯ\\> не се промотира на уебсайта?"
+
+#: content/faq.md:20
+msgid ""
+"The End Of 10 website and campaign outreach are intentionally distro-"
+"agnostic. The goal is to speak as a big FOSS family. We want the campaign "
+"and activities to represent all of our communities. FOSS projects are "
+"nonetheless encouraged to promote their own work in the context of the "
+"campaign, with two caveats: (i) it should be clear you are speaking for your"
+" community and not the campaign, and (ii) you must not speak negatively "
+"about the work of other FOSS projects."
+msgstr ""
+"Уебсайтът End Of 10 и разширяването на кампанията умишлено са неутрални по "
+"отношение на дистрибуциите. Целта е да говорим като едно голямо FOSS "
+"семейство. Искаме кампанията и дейностите да представляват всички наши "
+"общности. FOSS проектите все пак се насърчават да промотират собствената си "
+"работа в контекста на кампанията, с две уговорки: (i) трябва да е ясно, че "
+"говорите от името на вашата общност, а не на кампанията, и (ii) не трябва "
+"да говорите негативно за работата на други FOSS проекти."
+
+#: content/faq.md:22
+msgid ""
+"Does distro-agnostic mean event organizers and independent computer shops "
+"should not promote their favorite distro?"
+msgstr ""
+"Означава ли неутралността към дистрибуциите, че организаторите на събития и "
+"независимите компютърни магазини не трябва да промотират любимата си "
+"дистрибуция?"
+
+#: content/faq.md:24
+msgid ""
+"The campaign does not recommend any specific Linux distribution because we "
+"want to leave that to the volunteers and businesses that will perform the "
+"installation and offer support. In the end, the best distribution for a new "
+"user will depend on that user's needs and what support is readily available "
+"to them."
+msgstr ""
+"Кампанията не препоръчва конкретна Linux дистрибуция, защото искаме да "
+"оставим това на доброволците и бизнесите, които ще извършват инсталацията и "
+"ще предлагат поддръжка. В крайна сметка най-добрата дистрибуция за нов "
+"потребител ще зависи от нуждите на този потребител и каква поддръжка е "
+"лесно достъпна за него."
+
+#: content/faq.md:26
+msgid "I have an idea for the campaign. Will End Of 10 implement it?"
+msgstr "Имам идея за кампанията. Ще я реализира ли End Of 10?"
+
+#: content/faq.md:28
+msgid ""
+"It depends. Maybe, maybe not. Join our [Matrix "
+"chat](https://endof10.org/contribute/#which-communication-platforms-do-the-"
+"end-of-10-campaign-organizers-use) and present your idea. Be open to "
+"feedback. Even when many or the campaign's best ideas came from contributors"
+" like you, please understand that we can't and won't implement every idea "
+"out there. If End Of 10 is not the best home for your idea, consider looking"
+" for a local community and bringing it up there. Our directory of "
+"[places](https://endof10.org/places) and "
+"[events](https://endof10.org/events) for Linux support is a great way to "
+"approach, befriend, and team up with passionate and like-minded people to "
+"get new ideas rolling. We believe in fostering communities. Get together!"
+msgstr ""
+"Зависи. Може би, може би не. Присъединете се към нашия [Matrix "
+"чат](https://endof10.org/contribute/#which-communication-platforms-do-the-"
+"end-of-10-campaign-organizers-use) и представете идеята си. Бъдете отворени "
+"за обратна връзка. Дори когато много от най-добрите идеи на кампанията идват "
+"от сътрудници като Вас, моля разберете, че не можем и няма да реализираме "
+"всяка идея. Ако End Of 10 не е най-доброто място за вашата идея, помислете "
+"за местна общност и я предложете там. Нашият справочник с "
+"[места](https://endof10.org/places) и [събития](https://endof10.org/events) "
+"за поддръжка на Linux е чудесен начин да се свържете, сприятелите и "
+"обедините с хора със същите интереси и страст, за да реализирате нови идеи. "
+"Вярваме в изграждането на общности. Обединете се!"
+
+#: content/faq.md:30
+msgid ""
+"I like to help people install Linux, but I am not a part of any group. Can I"
+" be listed anyway?"
+msgstr ""
+"Харесва ми да помагам на хората да инсталират Linux, но не съм част от "
+"никаква група. Мога ли все пак да бъда включен?"
+
+#: content/faq.md:32
+msgid ""
+"Unfortunately not. Generally, the campaign lists organizations, not "
+"individuals, given issues related to the GDPR and vetting individuals."
+msgstr ""
+"За съжаление не. Като цяло кампанията изброява организации, а не отделни "
+"хора, поради проблеми, свързани с GDPR и проверката на лица."
+
+#: content/faq.md:34
+msgid "What is the issue with the GDPR?"
+msgstr "Какъв е проблемът с GDPR?"
+
+#: content/faq.md:36
+msgid ""
+"The GDPR is a European Union regulation on data and information privacy in "
+"the European Union. The website is hosted by the non-profit KDE e.V., which "
+"is registered in Germany. Handling the personal data of individuals is "
+"subject to the GDPR. Since the GDPR applies to [natural "
+"persons](https://gdpr-info.eu/art-1-gdpr/) only, handling the data of "
+"organizations and places will not create any problems for the web hoster."
+msgstr ""
+"GDPR е регламент на Европейския съюз относно поверителността на данните и "
+"информацията в Европейския съюз. Уебсайтът се хоства от некомерсиалната "
+"организация KDE e.V., която е регистрирана в Германия. Обработката на лични "
+"данни на физически лица е предмет на GDPR. Тъй като GDPR се прилага само за "
+"[физически лица](https://gdpr-info.eu/art-1-gdpr/), обработката на данни на "
+"организации и места няма да създаде проблеми за хостинг доставчика."
+
+#: content/faq.md:38
+msgid "What is the issue with vetting individuals?"
+msgstr "Какъв е проблемът с проверката на лица?"
+
+#: content/faq.md:40
+msgid ""
+"There are many people worldwide who are interested in the helping new users "
+"in the campaign. This is amazing and encouraging! However, there are so many"
+" that there is no reasonable way we can check them all. Some may have "
+"motivations beyond helping people install Linux, some may be trolls, and so "
+"on. An established organization or business is responsible for vetting the "
+"people on their team and can more easily be held accountable if problems "
+"arise."
+msgstr ""
+"Има много хора по света, които се интересуват от помощта на нови "
+"потребители в кампанията. Това е страхотно и окуряващо! Обаче има толкова "
+"много, че няма разумен начин да ги проверим всички. Някои може да имат "
+"мотиви отвъд помощта на хората да инсталират Linux, някои може да са тролове "
+"и т.н. Утвърдена организация или бизнес носи отговорност за проверката на "
+"хората в своя екип и може по-лесно да бъде държан отговорен при възникване "
+"на проблеми."
+
+#: content/faq.md:42
+msgid ""
+"If you are an individual, we recommend organizing an install event with an "
+"established organization (library, university, church, etc.) or getting "
+"involved with a repair collective in your area; see section [Linux "
+"Installation](#linux-installation) below for more."
+msgstr ""
+"Ако сте отделно лице, препоръчваме да организирате събитие за инсталация с "
+"утвърдена организация (библиотека, университет, църква и др.) или да се "
+"включите в колектив за ремонт във вашия район; вижте раздел [Инсталация на "
+"Linux](#linux-installation) по-долу за повече информация."
+
+#: content/faq.md:44
+msgid ""
+"Can I still help if I do not have time to organize an install event or join "
+"a Repair Cafe?"
+msgstr ""
+"Мога ли все пак да помогна, ако нямам време да организирам събитие за "
+"инсталация или да се присъединя към кафене за ремонт?"
+
+#: content/faq.md:46
+msgid ""
+"Yes! There are [many ways to get "
+"involved](https://endof10.org/contribute/#how-can-i-get-involved-with-the-"
+"campaign). An often overlooked way to help is simply raising awareness. You "
+"can print flyers and leave them in public places, or discuss issues such as "
+"planned obsolescence with family, friends, classmates, co-workers, etc. and "
+"how Linux is a solution. Moreover, you can help the campaign online from "
+"anywhere, for example with translations. Join our [Matrix "
+"chat](https://endof10.org/contribute/#which-communication-platforms-do-the-"
+"end-of-10-campaign-organizers-use) and introduce yourself."
+msgstr ""
+"Да! Има [много начини да се "
+"включите](https://endof10.org/contribute/#how-can-i-get-involved-with-the-"
+"campaign). Често пренебрегван начин за помощ е просто повишаването на "
+"осведомеността. Можете да отпечатате листовки и да ги оставите на обществени "
+"места, или да обсъждате въпроси като планираното остаряване със семейство, "
+"приятели, съученици, колеги и т.н. и как Linux е решение. Освен това можете "
+"да помогнете на кампанията онлайн отвсякъде, например с преводи. "
+"Присъединете се към нашия [Matrix "
+"чат](https://endof10.org/contribute/#which-communication-platforms-do-the-"
+"end-of-10-campaign-organizers-use) и се представете."
+
+#: content/faq.md:48
+msgid ""
+"No one around me cares about this and I am demotivated. What should I do?"
+msgstr ""
+"Никой около мен не се интересува от това и аз съм демотивиран. Какво трябва "
+"да направя?"
+
+#: content/faq.md:50
+msgid ""
+"Consider trying different approaches when bringing up the topic depending on"
+" who you are talking to. Reasons to switch to Linux are "
+"[many](https://endof10.org/#5-reasons-to-upgrade-your-old-computer-to-"
+"linux). Find the one that will resonate with your audience the most. "
+"Remember, you won't convince everyone and that is ok. Don't get discouraged."
+" Sometimes it is better to let go and put your energy where it will be "
+"better spent and more appreciated."
+msgstr ""
+"Помислете да опитате различни подходи при повдигане на темата в зависимост "
+"от това с кого говорите. Причините за преминаване към Linux са "
+"[много](https://endof10.org/#5-reasons-to-upgrade-your-old-computer-to-"
+"linux). Намерете тази, която най-много ще резонира с вашата аудитория. "
+"Помнете, няма да убедите всички и това е нормално. Не се обезсърчавайте. "
+"Понякога е по-добре да се откажете и да насочите енергията си там, където "
+"ще бъде по-добре използвана и по-оценена."
+
+#: content/faq.md:52
+msgid ""
+"I think the focus of the End Of 10 campaign is too narrow. Why don't you "
+"talk about \\<INSERT ISSUE HERE\\>?"
+msgstr ""
+"Мисля, че фокусът на кампанията End Of 10 е твърде ограничен. Защо не "
+"говорите за \\<ВМЪКНЕТЕ ПРОБЛЕМ ТУК\\>?"
+
+#: content/faq.md:54
+msgid ""
+"Our target audience are Windows 10 users who will not get security updates "
+"after software support ends. This is a very large group of people, with just"
+" as many viable computers that users may feel they are being forced to "
+"replace. This provides us with a singular opportunity: those millions of "
+"users are angry at being abandoned by Microsoft and they have good, usable "
+"hardware on their hands. Keeping our focus clear and well-defined helps us "
+"run a smoother campaign and prevents us from branching out in too many "
+"directions. We want to keep our message clear, concise, and consistent."
+msgstr ""
+"Нашата целева аудитория са потребители на Windows 10, които няма да получат "
+"актуализации за сигурност след като приключи поддръжката на софтуера. Това е "
+"много голяма група хора, с толкова много работещи компютри, че потребителите "
+"може да почувстват, че са принудени да ги сменят. Това ни предоставя "
+"уникална възможност: тези милиони потребители са ядосани, че са изоставени "
+"от Microsoft и имат добър, използваем хардуер в ръцете си. Поддържането на "
+"ясен и добре дефиниран фокус ни помага да провеждаме по-гладка кампания и "
+"ни предпазва от разклоняване в твърде много посоки. Искаме да запазим нашето "
+"послание ясно, кратко и последователно."
+
+#: content/faq.md:56
+msgid "What about gaming?"
+msgstr "Какво да кажем за игрите?"
+
+#: content/faq.md:58
+msgid ""
+"Gamers are a huge demographic, and these days with Steam a very good one to "
+"try to convert to Linux, but they are not our main focus. Many serious "
+"gamers will likely have no problem upgrading to Windows 11, so their "
+"computers are not at risk of being discarded and replaced. The campaign is "
+"focusing specifically on users whose hardware cannot upgrade to Windows 11. "
+"If you want to dedicate yourself to the Linux Gaming community, here are "
+"some communities and petitions where you can start:"
+msgstr ""
+"Геймърите са огромна демографска група и в наши дни със Steam са много добра "
+"група за опит за преобразуване към Linux, но те не са нашият основен фокус. "
+"Много сериозни геймъри вероятно няма да имат проблем с надграждането до "
+"Windows 11, така че техните компютри не са в риск да бъдат изхвърлени и "
+"заменени. Кампанията се фокусира специално върху потребители, чийто хардуер "
+"не може да надгради до Windows 11. Ако искате да се посветите на общността "
+"за игри на Linux, ето някои общности и петиции, откъдето можете да започнете:"
+
+#: content/faq.md:60
+msgid "[Stop Killing Games](https://www.stopkillinggames.com/)"
+msgstr "[Спрете убиването на игри](https://www.stopkillinggames.com/)"
+
+#: content/faq.md:61
+msgid "[ProtonDB](https://www.protondb.com/contribute)"
+msgstr "[ProtonDB](https://www.protondb.com/contribute)"
+
+#: content/faq.md:62
+msgid "[Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)"
+msgstr "[Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)"
+
+#: content/faq.md:64
+msgid "Can I add my organization as a supporter?"
+msgstr "Мога ли да добавя моята организация като поддръжник?"
+
+#: content/faq.md:66
+msgid ""
+"We are honored you would like to support the campaign! The End Of 10 has a "
+"narrow focus on Free & Open Source Software and Right to Repair. If your "
+"organization is working on these topics and you have a national or "
+"international reach, you are welcome to request being added as a supporter "
+"of the campaign. If your organization does not meet these requirements, we "
+"encourage you instead to organize an install party or repair cafe. After "
+"all, supporting new users with Linux is the most important way to support "
+"the campaign."
+msgstr ""
+"Почетени сме, че искате да подкрепите кампанията! End Of 10 има тесен фокус "
+"върху свободен софтуер с отворен код и правото на ремонт. Ако вашата "
+"организация работи по тези теми и имате национален или международен обхват, "
+"можете да поискате да бъдете добавени като поддръжник на кампанията. Ако "
+"вашата организация не отговаря на тези изисквания, насърчаваме ви вместо "
+"това да организирате събитие за инсталация или кафене за ремонт. В крайна "
+"сметка подкрепата на нови потребители с Linux е най-важният начин да "
+"подкрепите кампанията."
+
+#: content/faq.md:69
+msgid "2. Linux Installation"
+msgstr "2. Инсталация на Linux"
+
+#: content/faq.md:71
+msgid "Is there any way individuals can offer Linux support for the campaign?"
+msgstr ""
+"Има ли начин отделни лица да предложат поддръжка на Linux за кампанията?"
+
+#: content/faq.md:73
+msgid ""
+"Yes! We encourage individuals to help their friends, family, and loved ones "
+"when getting started with Linux. Do not underestimate how important that "
+"support is! We also recommend finding communities in your area such as "
+"Repair Cafés (see [Repair Café "
+"International](https://www.repaircafe.org/en/visit/), [Restart "
+"Project](https://therestartproject.org/repair-options/find-your-repair-"
+"community/), or "
+"[iFixit](https://www.ifixit.com/Wiki/How_to_Find_your_Local_Repair_Caf%C3%A9))"
+","
+" [Linux User Groups](https://linux-events.org/SL_LUGs), IT stores offering "
+"Linux support, student clubs, [CryptoParties](https://cryptoparty.in/), etc."
+" Tell them about the campaign and get them listed. If they are already "
+"listed, you can ask what they need help with. It could be providing support "
+"to new users, helping organize Linux install parties and events (for "
+"instance, [Software Freedom Day](https://digitalfreedoms.org/sfd)), raising "
+"funds, or whatever else they are doing to promote Linux."
+msgstr ""
+"Да! Насърчаваме отделните лица да помагат на своите приятели, семейство и "
+"близки при започването с Linux. Не подценявайте колко важна е тази "
+"подкрепа! Препоръчваме също да намерите общности във вашия район като "
+"кафенета за ремонт (вижте [Repair Café "
+"International](https://www.repaircafe.org/en/visit/), [Restart "
+"Project](https://therestartproject.org/repair-options/find-your-repair-"
+"community/), или "
+"[iFixit](https://www.ifixit.com/Wiki/How_to_Find_your_Local_Repair_Caf%C3%A9))"
+","
+" [Потребителски групи на Linux](https://linux-events.org/SL_LUGs), IT "
+"магазини, предлагащи поддръжка на Linux, студентски клубове, "
+"[CryptoParties](https://cryptoparty.in/) и др. Разкажете им за кампанията и "
+"ги регистрирайте. Ако вече са регистрирани, можете да попитате с какво се "
+"нуждаят от помощ. Може да бъде предоставяне на подкрепа на нови "
+"потребители, помощ при организирането на събития за инсталация на Linux "
+"(например [Ден на свободата на софтуера](https://digitalfreedoms.org/sfd)), "
+"набиране на средства или каквото и да е друго, което правят за промотиране "
+"на Linux."
+
+#: content/faq.md:75
+msgid "What if there are no groups in my area?"
+msgstr "Какво, ако няма групи в моя район?"
+
+#: content/faq.md:77
+msgid ""
+"That is a real pity, but it is also an opportunity: you can start one! "
+"Organizing your first install event or starting a Linux User Group or Repair"
+" Café is very doable. Many people like you are leading the way. Keep in mind"
+" that contributors to Free & Open Source Software projects live all over the"
+" world. It is truly a global network. Reach out to software development "
+"projects and ask if anyone lives in your area and would like to help new "
+"users with Linux. Or if they know someone that would. Don't be disappointed "
+"if interest is low at first. It takes time and energy to build a community."
+msgstr ""
+"Това е истинска жалост, но е и възможност: можете да започнете такава! "
+"Организирането на вашето първо събитие за инсталация или стартирането на "
+"потребителска група на Linux или кафене за ремонт е напълно постижимо. Много "
+"хора като вас показват пътя напред. Имайте предвид, че сътрудниците на проекти"
+" за "
+"свободен софтуер с отворен код живеят по целия свят. Това е наистина глобална "
+"мрежа. Свържете се с проекти за разработка на софтуер и попитайте дали "
+"някой живее във вашия район и би искал да помогне на нови потребители с "
+"Linux. Или дали познават някой, който би го направил. Не се разочаровайте, "
+"ако интересът е нисък в началото. Изисква време и енергия да се изгради "
+"общност."
+
+#: content/faq.md:79
+msgid "How do I organize an install party?"
+msgstr "Как да организирам събитие за инсталация?"
+
+#: content/faq.md:81
+msgid ""
+"A quick guide to organizing an install party based on our experiences can be"
+" found below. The most important thing is to start with what works best for "
+"you and the people you are helping."
+msgstr ""
+"По-долу може да намерите бързо ръководство за организиране на събитие за "
+"инсталация, базирано на нашия опит. Най-важното е да започнете с това, което "
+"работи най-добре за вас и хората, на които помагате."
+
+#: content/faq.md:83
+msgid ""
+"Don't forget to write the campaign to have the event listed on the website!"
+msgstr ""
+"Не забравяйте да пишете на кампанията, за да бъде събитието публикувано на "
+"уебсайта!"
+
+#: content/faq.md:85
+msgid ""
+"**Venue** - Find a local space to host the event. Examples include "
+"libraries, community centers, cafes, churches, etc. Check for building "
+"accessibility and toilets."
+msgstr ""
+"**Място** - Намерете местно пространство за провеждане на събитието. "
+"Примери включват библиотеки, обществени центрове, кафенета, църкви и др. "
+"Проверете за достъпност на сградата и тоалетни."
+
+#: content/faq.md:86
+msgid ""
+"**Helpers** - Find volunteers to help. It is much more fun to help new users"
+" together!"
+msgstr ""
+"**Помощници** - Намерете доброволци за помощ. Много по-забавно е да "
+"помагате на нови потребители заедно!"
+
+#: content/faq.md:87
+msgid ""
+"**Hardware** - Extension cords, power strips, Linux-ready USB sticks and "
+"DVDs, Internet (optional)."
+msgstr ""
+"**Хардуер** - Удължителни кабели, разклонители, USB устройства и DVD-та, "
+"готови за Linux, интернет (по избор)."
+
+#: content/faq.md:88
+msgid ""
+"**Target audience** - Reach out to target groups and communities. It is "
+"easier to overcome network effects and get user support when your entire "
+"social circle is using Linux!"
+msgstr ""
+"**Целева аудитория** - Свържете се с целеви групи и общности. По-лесно е да "
+"преодолеете мрежовите ефекти и да получите поддръжка от потребители, когато "
+"целият Ви социален кръг използва Linux!"
+
+#: content/faq.md:89
+msgid ""
+"**Marketing** - Hang posters in your neighborhood and at your university, "
+"office, library, supermarket; print flyers and leaflets and hand them out to"
+" people; post about the event on social media. If there are environmental or"
+" human rights groups (even if non-technical), contact them too. E-waste and "
+"planned obsolescence are directly relevant for both groups and they may even"
+" promote the event (see [here](https://nachhaltig-in-graz.at/linux-statt-"
+"microsoft/) for an example in Graz, Austria)."
+msgstr ""
+"**Маркетинг** - Окачете плакати в квартала си и в университета, офиса, "
+"библиотеката, супермаркета; отпечатайте листовки и ги раздайте на хората; "
+"публикувайте за събитието в социалните медии. Ако има екологични или групи "
+"за човешки права (дори и нетехнически), свържете се и с тях. Електронните "
+"отпадъци и планираното остаряване са пряко свързани с двете групи и те дори "
+"могат да промотират събитието (вижте [тук](https://nachhaltig-in-graz.at/"
+"linux-statt-microsoft/) за пример в Грац, Австрия)."
+
+#: content/faq.md:90
+msgid ""
+"**Local media** - Local media is an effective way to reach people in your "
+"area. Put an ad in your local paper, write local journalists, contact local "
+"radio stations."
+msgstr ""
+"**Местни медии** - Местните медии са ефективен начин да достигнете до хора "
+"във вашия район. Поставете реклама в местния вестник, пишете на местни "
+"журналисти, свържете се с местни радиостанции."
+
+#: content/faq.md:91
+msgid ""
+"**Code of Conduct** - Prepare a code of conduct for volunteers and "
+"attendees. Make sure everyone is aware of it. Have a plan for how to deal "
+"with violations. Some example CoCs from the Linux community can be found "
+"[here](https://kde.org/code-of-conduct/) or "
+"[here](https://conduct.gnome.org/)."
+msgstr ""
+"**Кодекс за поведение** - Подгответе кодекс за поведение за доброволци и "
+"участници. Уверете се, че всички са наясно с него. Имайте план как да се "
+"справяте с нарушения. Примерни кодекси за поведение от общността на Linux "
+"могат да бъдат намерени [тук](https://kde.org/code-of-conduct/) или "
+"[тук](https://conduct.gnome.org/)."
+
+#: content/faq.md:92
+msgid ""
+"**Know your user** - Prepare a questionnaire for new users: How old is their"
+" computer? What do they want to do with it? What software will they need? "
+"Before you install anything, get to know the needs of the person you are "
+"helping and inform them how Linux may be different or similar. Have them try"
+" Linux in a live environment or on a demo computer."
+msgstr ""
+"**Опознайте Вашия потребител** - Подгответе въпросник за нови потребители: "
+"Колко стар е техният компютър? Какво искат да правят с него? Какъв софтуер "
+"ще им трябва? Преди да инсталирате каквото и да е, опознайте нуждите на "
+"човека, на когото помагате, и го информирайте как Linux може да бъде "
+"различен или подобен. Нека да опитат Linux в среда на живо или на демонстрацио"
+"нен "
+"компютър."
+
+#: content/faq.md:93
+msgid ""
+"**Disclaimers** - Important information to share at the beginning of an "
+"install event include:"
+msgstr ""
+"**Предупреждения** - Важна информация за споделяне в началото на събитие за "
+"инсталация включва:"
+
+#: content/faq.md:94
+msgid "This is voluntary help to show new users how they can help themselves."
+msgstr ""
+"Това е доброволна помощ, за да покажете на новите потребители как могат да "
+"си помогнат сами."
+
+#: content/faq.md:95
+msgid "No contract is being established."
+msgstr "Не се сключва договор."
+
+#: content/faq.md:96
+msgid "Devices and data can break when you touch them."
+msgstr "Устройствата и данните могат да се повредят, когато ги докоснете."
+
+#: content/faq.md:97
+msgid "Attendees are responsible for their devices and having data backups."
+msgstr ""
+"Участниците носят отговорност за своите устройства и за създаването на "
+"резервни копия на данните."
+
+#: content/faq.md:99
+msgid "Tip: It's best practice to ask before touching someone else's computer!"
+msgstr ""
+"Съвет: Добра практика е да питате, преди да докоснете компютъра на друг!"
+
+#: content/faq.md:100
+msgid ""
+"**Follow-up support** - Prepare information for how users can get follow-up "
+"support locally or online. Don't forget to demonstrate [how they can help "
+"themselves](https://xkcd.com/627/) as well."
+msgstr ""
+"**Последваща поддръжка** - Подгответе информация как потребителите могат да "
+"получат последваща поддръжка локално или онлайн. Не забравяйте да "
+"демонстрирате [как могат да си помогнат сами](https://xkcd.com/627/) също."
+
+#: content/faq.md:101
+msgid ""
+"**Other** - Have food, drinks, stickers, penguin and gnu stuffed animals, "
+"guides for new Linux users, and other material to encourage new users, etc."
+msgstr ""
+"**Друго** - Имайте храна, напитки, стикери, плюшени играчки пингвин и gnu, "
+"ръководства за нови Linux потребители и други материали за насърчаване на "
+"нови потребители и др."
+
+#: content/faq.md:102
+msgid ""
+"**Optional** - SDD drives to replace the hard drive (keep the old one as a "
+"full-system backup), USB modems (helpful if a WiFi chip is not working after"
+" installation)."
+msgstr ""
+"**Опционално** - SSD дискове за замяна на твърдия диск (запазете стария като "
+"пълна системна резервна копие), USB модеми (полезни, ако WiFi чипът не "
+"работи след инсталацията)."
+
+#: content/faq.md:104
+msgid "How do I organize a Repair Cafe?"
+msgstr "Как да организирам кафене за ремонт?"
+
+#: content/faq.md:106
+msgid ""
+"Starting a repair cafe is more work than organizing an event, but well worth"
+" it for long-term support. Here are some resources on how start one:"
+msgstr ""
+"Стартирането на кафене за ремонт изисква повече работа от организирането на "
+"събитие, но си струва за дългосрочна поддръжка. Ето някои ресурси как да "
+"стартирате такова:"
+
+#: content/faq.md:108
+msgid ""
+"[Repair Cafe International](https://www.repaircafe.org/en/visit/) has very "
+"helpful information at the \"[Start Your "
+"Own](https://www.repaircafe.org/en/join/start-your-own/)\" and \"[Linux "
+"Repair Café](https://www.repaircafe.org/linux-repair-cafe/)\" webpages."
+msgstr ""
+"[Repair Cafe International](https://www.repaircafe.org/en/visit/) има много "
+"полезна информация на страниците \"[Стартирайте "
+"собствено](https://www.repaircafe.org/en/join/start-your-own/)\" и \"[Linux "
+"Repair Café](https://www.repaircafe.org/linux-repair-cafe/)\"."
+
+#: content/faq.md:109
+msgid ""
+"[Restart Project](https://therestartproject.org/repair-options/find-your-"
+"repair-community/) has prepared a \"[End of Windows 10: A Toolkit for "
+"Community Repair Groups](https://therestartproject.org/end-of-"
+"windows-10-toolkit-for-repair-groups/)\"."
+msgstr ""
+"[Restart Project](https://therestartproject.org/repair-options/find-your-"
+"repair-community/) е подготвил \"[Край на Windows 10: Инструментариум за "
+"общностни групи за ремонт](https://therestartproject.org/end-of-"
+"windows-10-toolkit-for-repair-groups/)\"."
+
+#: content/faq.md:112
+msgid "3. Outreach & Promotion"
+msgstr "3. Разширяване и промоция"
+
+#: content/faq.md:114
+msgid ""
+"Do you have ads, flyers, posters, jingles, etc. for advertising the End Of "
+"10 campaign?"
+msgstr ""
+"Имате ли реклами, листовки, плакати, джингъли и др. за рекламиране на "
+"кампанията End Of 10?"
+
+#: content/faq.md:116
+msgid ""
+"You can find promotional materials created by the community at the [website "
+"repository](https://invent.kde.org/websites/endof10-org/-/tree/master/static/a"
+"ssets)."
+msgstr ""
+"Можете да намерите промоционални материали, създадени от общността, в "
+"[хранилището на уебсайта](https://invent.kde.org/websites/endof10-org/-/"
+"tree/master/static/assets)."
+
+#: content/faq.md:118
+msgid "Is the campaign active on social media?"
+msgstr "Активна ли е кампанията в социалните медии?"
+
+#: content/faq.md:120
+msgid ""
+"We are on the Fediverse! Follow our Mastodon account and boost our posts: "
+"https://floss.social/@endof10"
+msgstr ""
+"Ние сме във Fediverse! Последвайте нашия Mastodon акаунт и споделяйте "
+"нашите публикации: https://floss.social/@endof10"
+
+#: content/faq.md:122
+msgid "Campaign hashtags are:"
+msgstr "Хаштаговете на кампанията са:"
+
+#: content/faq.md:124
+msgid "#EndOf10"
+msgstr "#EndOf10"
+
+#: content/faq.md:125
+msgid "#EO10Challenges"
+msgstr "#EO10Challenges"
+
+#: content/faq.md:127
+msgid "Is the campaign active on social media besides the Fediverse?"
+msgstr "Активна ли е кампанията в социалните медии извън Fediverse?"
+
+#: content/faq.md:129
+msgid ""
+"Campaign activity is centered on the Fediverse. The reasons for this are "
+"twofold: there are no restrictions on who can access our posts, and the "
+"software is aligned with the goals of the campaign. We are happy if "
+"contributors share our posts on their favorite platforms. We only ask that "
+"you include a link to the original post and make it clear that our [Mastodon"
+" account](https://floss.social/@endof10) is the place to go for official "
+"updates. Additionally, many [End Of 10 "
+"supporters](https://endof10.org/#supporters) are active on a wide range of "
+"social media channels. We encourage contributors to follow them and boost "
+"their posts as well."
+msgstr ""
+"Активността на кампанията е съсредоточена във Fediverse. Причините за това "
+"са две: няма ограничения кой може да има достъп до нашите публикации и "
+"софтуерът е в съответствие с целите на кампанията. Радваме се, ако "
+"сътрудниците споделят нашите публикации на предпочитаните от тях платформи. "
+"Молим само да включите връзка към оригиналната публикация и да изясните, че "
+"нашият [Mastodon акаунт](https://floss.social/@endof10) е мястото за "
+"официални актуализации. Освен това много [поддръжници на End Of "
+"10](https://endof10.org/#supporters) са активни в широк спектър от канали в "
+"социалните медии. Насърчаваме сътрудниците да ги последват и да споделят "
+"техните публикации също."
+
+#: content/faq.md:131
+msgid "So how do you do outreach to new users?"
+msgstr "Как тогава достигате до нови потребители?"
+
+#: content/faq.md:133
+msgid ""
+"Contributors to the campaign have been doing both local promotion of their "
+"events as well as outreach to news organizations, magazines, radio stations,"
+" podcasts, and other organizations with national and international reach. "
+"Check out our collection of [media featuring the End Of 10 "
+"campaign](https://endof10.org/media). If anything is missing, let us know."
+msgstr ""
+"Сътрудниците на кампанията правят както локална промоция на техните събития, "
+"така и обръщения към новинарски организации, списания, радиостанции, "
+"подкасти и други организации с национален и международен обхват. Разгледайте "
+"нашата колекция от [медии, представящи кампанията End Of "
+"10](https://endof10.org/media). Ако нещо липсва, уведомете ни."
+
+#: content/install.md:0
+msgid "DIY Install Guide"
+msgstr "Ръководство за самостоятелна инсталация"
+
+#: content/install.md:0
+msgid "DIY Install"
+msgstr "Самостоятелна инсталация"
+
+#: content/install.md:9
+msgid ""
+"We recommend getting in-person support for the best experience. However, if "
+"you feel you're technically versed enough to do it yourself, here's a "
+"general guide with the three main steps needed to install Linux."
+msgstr ""
+"Препоръчваме да получите лична подкрепа за най-добро преживяване. Ако въпреки "
+"това "
+"смятате, че сте достатъчно технически компетентен/на, за да го направите сами,"
+" "
+"ето общо ръководство с трите основни стъпки, необходими за инсталиране на "
+"Linux."
+
+#: content/install.md:14
+msgid ""
+"Once you have picked a distribution, their website will have more detailed "
+"guides you can follow."
+msgstr ""
+"След като сте избрали дистрибуция, уебсайтът на дистрибуцията ще има по-подроб"
+"ни "
+"ръководства, които можете да следвате."
+
+#: content/install.md:19
+msgid ""
+"Before you start, make sure to back up any important data from the computer "
+"you're about to reinstall!"
+msgstr ""
+"Преди да започнете, уверете се, че сте направили резервно копие на всички "
+"важни данни от компютъра, който ще преинсталирате!"
+
+#: content/install.md:24
+msgid ""
+"**Download a new OS**{{< br >}} Download the operating system you want to "
+"install. Search for Linux distributions for beginners to get some "
+"suggestions."
+msgstr ""
+"**Изтеглете нова операционна система**{{< br >}} Изтеглете операционната систе"
+"ма, която "
+"искате да инсталирате. Потърсете Linux дистрибуции за начинаещи, за да "
+"получите някои предложения."
+
+#: content/install.md:27
+msgid ""
+"**Flash to a USB key**{{< br >}} Flash the operating system to a USB stick "
+"using a standard tool, such as Rufus. This will overwrite all data on the "
+"USB stick, so make sure to back up the files you want to keep. {{< "
+"buttonLink href=\"https://rufus.ie/en/\" class=\"btn_small btn_mt\" "
+"target=\"_blank\" >}}Get Rufus{{< /buttonLink >}}"
+msgstr ""
+"**Запишете на USB флаши памет**{{< br >}} Запишете операционната система на US"
+"B "
+"устройство, използвайки стандартен инструмент като Rufus. Това ще презапише "
+"всички данни на USB устройството, така че се уверете, че сте направили "
+"резервно копие на файловете, които искате да запазите. {{< buttonLink "
+"href=\"https://rufus.ie/en/\" class=\"btn_small btn_mt\" target=\"_blank\" "
+">}}Вземете Rufus{{< /buttonLink >}}"
+
+#: content/install.md:32
+msgid ""
+"**Boot and install on your computer**{{< br >}} Boot your computer from your"
+" USB stick. You will need to know the correct keyboard combination "
+"beforehand. At this point you will overwrite all data on the computer, so "
+"have a back up of the files you want to keep. Follow the instructions, and "
+"voilà! Welcome to your new, old computer!"
+msgstr ""
+"**Стартирайте и инсталирайте на Вашия компютър**{{< br >}} Стартирайте "
+"компютъра си от Вашето USB устройство. Ще трябва предварително да знаете "
+"правилната клавишна комбинация. На този етап ще презапишете всички данни на "
+"компютъра, така че имайте резервно копие на файловете, които искате да "
+"запазите. Следвайте инструкциите и voilà! Добре дошли на вашия нов, стар "
+"компютър!"
+
+#: content/media.md:0
+msgid "In the Media"
+msgstr "В медиите"
+
+#: content/media.md:0
+msgid "Media"
+msgstr "Медии"
+
+#: content/media.md:9
+msgid ""
+"Learn more about the campaign in these articles, blog posts, radio programs,"
+" podcasts, and more!"
+msgstr ""
+"Научете повече за кампанията в тези статии, блог публикации, радиопредавания, "
+"подкасти и още!"
+
+#: content/media.md:11
+msgid "From Our Supporters"
+msgstr "От нашите поддръжници"
+
+#: content/media.md:15
+msgid "End Of 10 in Articles & Blog Posts"
+msgstr "End Of 10 в статии и блог публикации"
+
+#: content/media.md:19
+msgid "End Of 10 in Radio & Podcasts"
+msgstr "End Of 10 в радио и подкасти"
+
+#: content/media.md:23
+msgid "Other News Related to the Campaign"
+msgstr "Други новини, свързани с кампанията"
+
+#: content/places/_index.md:0
+msgid "Find Linux Support"
+msgstr "Намерете поддръжка за Linux"
+
+#: content/places/_index.md:0
+msgid "Places"
+msgstr "Места"
+
+#: content/places/_index.md:12
+msgid ""
+"Here is a list of repair cafes, independent shops, organizations, groups, "
+"and collectives where you can get help with Linux on a regular basis. Please"
+" note that the information here is submitted by the organizations themselves"
+" and is not evaluated by the campaign. Responsibility for a device is with "
+"the owner. For corrections or concerns, please [contact "
+"us](https://endof10.org/contribute/#which-communication-platforms-does-the-"
+"end-of-10-campaign-use)."
+msgstr ""
+"Ето списък с кафенета за ремонт, независими магазини, организации, групи и "
+"колективи, където можете да получите помощ с Linux редовно. Моля, имайте "
+"предвид, че информацията тук е предоставена от самите организации и не е "
+"оценена от кампанията. Отговорността за устройството е на собственика. За "
+"корекции или притеснения, моля, [свържете се с "
+"нас](https://endof10.org/contribute/#which-communication-platforms-does-the-"
+"end-of-10-campaign-use)."
+
+#: content/places/_index.md:22
+msgid "Add your repair collective or other place"
+msgstr "Добавете Вашия колектив за ремонт или друго място"
+
+#: content/press/2025-05-28-press-release/index.md:0
+msgid "The end (of Windows 10) is nigh!"
+msgstr "Краят (на Windows 10) наближава!"
+
+#: content/press/2025-05-28-press-release/index.md:6
+msgid ""
+"*Today we're launching \"End Of 10\" ([endof10.org](https://endof10.org/)) "
+"and bringing Linux to Windows 10 users!*"
+msgstr ""
+"*Днес стартираме \"End Of 10\" ([endof10.org](https://endof10.org/)) и "
+"донасяме Linux на потребителите на Windows 10!*"
+
+#: content/press/2025-05-28-press-release/index.md:8
+msgid ""
+"On 14 October 2025, Microsoft will end support for Windows 10. Microsoft "
+"will no longer provide updates for the system and this will turn an "
+"estimated 200 to 400 million laptops and computers worldwide into security "
+"risks and heavily polluting e-waste."
+msgstr ""
+"На 14 октомври 2025 г. Microsoft ще прекрати поддръжката за Windows 10. "
+"Microsoft повече няма да предоставя актуализации за системата и това ще "
+"превърне приблизително 200 до 400 милиона лаптопа и компютри в световен "
+"мащаб в рискове за сигурността и силно замърсяващи електронни отпадъци."
+
+#: content/press/2025-05-28-press-release/index.md:10
+msgid "Yours may be one of them."
+msgstr "Вашият може да е един от тях."
+
+#: content/press/2025-05-28-press-release/index.md:12
+#: content/press/2025-10-04-extended-campaign/index.md:9
+msgid "<!--more-->\n"
+msgstr "<!--more-->\n"
+
+#: content/press/2025-05-28-press-release/index.md:14
+msgid ""
+"But what if you could make your current computer fast and secure again so "
+"you can continue to use it? There is an alternative to Windows, one that is "
+"free, receives regular updates and works on nearly all devices, from most "
+"smartphones and routers, to supercomputers that predict the weather and "
+"robots on Mars."
+msgstr ""
+"Но какво, ако можехте да направите текущия си компютър отново бърз и сигурен, "
+"за да продължите да го използвате? Има алтернатива на Windows, която е "
+"безплатна, получава редовни актуализации и работи на почти всички устройства, "
+"от повечето смартфони и рутери, до суперкомпютри, които предвиждат времето, "
+"и роботи на Марс."
+
+#: content/press/2025-05-28-press-release/index.md:16
+msgid ""
+"Yes, it's Linux. Linux is extremely flexible and adaptable, and it can work "
+"for you too. Linux can run smoothly on your latest laptop and on a machine "
+"from 10-20 years ago."
+msgstr ""
+"Да, това е Linux. Linux е изключително гъвкав и адаптивен и може да работи "
+"и за вас. Linux може да работи безпроблемно на вашия най-нов лаптоп и на "
+"машина на 10-20 години."
+
+#: content/press/2025-05-28-press-release/index.md:18
+msgid ""
+"The cheapest and most environmentally-friendly computer is the one you "
+"already own."
+msgstr "Най-евтиният и екологичен компютър е този, който вече притежавате."
+
+#: content/press/2025-05-28-press-release/index.md:20
+msgid ""
+"Installing a new operating system may sound difficult, but the community "
+"behind the \"End Of 10\" is here to help! In towns and cities around the "
+"globe, there are people and places ready to lend you a hand or even install "
+"Linux for you. Many more helper groups get added every day."
+msgstr ""
+"Инсталирането на нова операционна система може да звучи трудно, но общността "
+"зад \"End Of 10\" е тук, за да помогне! В градове и селища по целия свят "
+"има хора и места, готови да ви помогнат или дори да инсталират Linux за вас. "
+"Всеки ден се добавят много повече помагащи групи."
+
+#: content/press/2025-05-28-press-release/index.md:22
+msgid "Find help near you at our website:"
+msgstr "Намерете помощ близо до вас на нашия уебсайт:"
+
+#: content/press/2025-05-28-press-release/index.md:24
+msgid "https://endof10.org/"
+msgstr "https://endof10.org/"
+
+#: content/press/2025-05-28-press-release/index.md:26
+msgid "Why can't I just migrate my current machine to Windows 11?"
+msgstr "Защо не мога просто да мигрирам текущата си машина към Windows 11?"
+
+#: content/press/2025-05-28-press-release/index.md:28
+msgid ""
+"Because there is a good chance it won't meet the system requirements for "
+"Windows 11. There are several reasons for this, but one of the most "
+"questionable is that many devices are being rejected for not having a modern"
+" security module. From a technical standpoint, that's hard to justify."
+msgstr ""
+"Защото има голяма вероятност да не отговаря на системните изисквания за "
+"Windows 11. Има няколко причини за това, но една от най-съмнителните е, че "
+"много устройства се отхвърлят заради липсата на модерен модул за сигурност. "
+"От техническа гледна точка това е трудно за обосноваване."
+
+#: content/press/2025-05-28-press-release/index.md:30
+msgid ""
+"Ironically, it just so happens that 14 October is also \"[International "
+"E-Waste Day](https://weee-forum.org/iewd-about/)\". Shortly after follows "
+"\"[International Repair Day](https://openrepair.org/international-repair-"
+"day/)\" on 18 October. You can't make these things up!"
+msgstr ""
+"Иронично, точно на 14 октомври е и \"[Международният ден на електронните "
+"отпадъци](https://weee-forum.org/iewd-about/)\". Малко след това следва "
+"\"[Международният ден на ремонта](https://openrepair.org/international-"
+"repair-day/)\" на 18 октомври. Не можеш да измислиш такива неща!"
+
+#: content/press/2025-05-28-press-release/index.md:32
+msgid ""
+"But Microsoft really wants Windows 10 users to buy new hardware. In fact, "
+"the company has [pushed full-screen "
+"notifications](https://arstechnica.com/gadgets/2024/11/microsoft-pushes-"
+"full-screen-ads-for-copilot-pcs-on-windows-10-users/) onto users' screens "
+"encouraging them to do just that — even for computers that are able to "
+"upgrade to Windows 11. This means manufacturing and transporting hundreds of"
+" millions of new devices, and this is perhaps the biggest waste of all. "
+"Hardware production alone consumes copious amounts of energy and has a "
+"disproportionate carbon footprint, all of which is for absolutely nothing "
+"when a working device lands in the bin."
+msgstr ""
+"Но Microsoft наистина иска потребителите на Windows 10 да купят нов хардуер. "
+"Всъщност компанията е [изпратила известия на цял "
+"екран](https://arstechnica.com/gadgets/2024/11/microsoft-pushes-full-screen-"
+"ads-for-copilot-pcs-on-windows-10-users/) на екраните на потребителите, "
+"насърчавайки ги да направят точно това — дори за компютри, които могат да "
+"надградят до Windows 11. Това означава производство и транспортиране на "
+"стотици милиони нови устройства, и това е може би най-голямото расипване. "
+"Само производството на хардуер консумира огромни количества енергия и има "
+"непропорционален въглероден отпечатък, всичко това за абсолютно нищо, когато "
+"работещо устройство завършва в кошчето."
+
+#: content/press/2025-05-28-press-release/index.md:34
+msgid ""
+"On the other hand, when you choose Linux, you get everything you could ever "
+"want for daily use, and the same machine can be working for decades. Whether"
+" you need to work, run a company, stay connected, or relax, the software "
+"shipped with Linux is often beautiful, blazing fast, easy to use, and always"
+" under your control. Most concerns about Linux are now outdated or unfounded"
+" and your system will remain secure well beyond the end of Windows 10 date "
+"at no cost."
+msgstr ""
+"От друга страна, когато изберете Linux, получавате всичко, което бихте "
+"искали за ежедневна употреба, и същата машина може да работи десетилетия. "
+"Независимо дали трябва да работите, да управлявате компания, да останете "
+"свързани или да се отпуснете, софтуерът, който идва с Linux, често е красив, "
+"светкавично бърз, лесен за използване и винаги под Ваш контрол. Повечето "
+"опасения относно Linux вече са остарели или неоснователни и вашата система "
+"ще остане сигурна далеч след датата на края на Windows 10, безплатно."
+
+#: content/press/2025-05-28-press-release/index.md:36
+msgid "The End Of 10 campaign has identified 5 reasons to upgrade to Linux:"
+msgstr ""
+"Кампанията End Of 10 е идентифицирала 5 причини да надградите към Linux:"
+
+#: content/press/2025-05-28-press-release/index.md:57
+msgid ""
+"If you're a gamer, you might be wondering: Can I still play my games on "
+"Linux? Yes, you can, and it has never been easier! Thousands of popular AAA "
+"games now run seamlessly on Linux and, in many cases, performance is equal "
+"to or even better than on Windows, especially on older hardware."
+msgstr ""
+"Ако сте геймър, може да се чудите: Мога ли все още да играя игрите си на "
+"Linux? Да, можете, и никога не е било по-лесно! Хиляди популярни AAA игри "
+"вече работят безпроблемно на Linux и в много случаи производителността е "
+"равна или дори по-добра от тази на Windows, особено на по-стар хардуер."
+
+#: content/press/2025-05-28-press-release/index.md:59
+msgid ""
+"There is a growing list of Free & Open Source Software and repair "
+"organizations supporting the campaign, including:"
+msgstr ""
+"Има нарастващ списък от организации за свободен софтуер с отворен код и "
+"ремонт, подкрепящи кампанията, включително:"
+
+#: content/press/2025-05-28-press-release/index.md:61
+msgid "anstiftung"
+msgstr "anstiftung"
+
+#: content/press/2025-05-28-press-release/index.md:62
+msgid "Associazione LibreItalia"
+msgstr "Associazione LibreItalia"
+
+#: content/press/2025-05-28-press-release/index.md:63
+msgid "Computertruhe e.V."
+msgstr "Computertruhe e.V."
+
+#: content/press/2025-05-28-press-release/index.md:64
+msgid "Debian"
+msgstr "Debian"
+
+#: content/press/2025-05-28-press-release/index.md:65
+msgid "/e/ Foundation"
+msgstr "/e/ Foundation"
+
+#: content/press/2025-05-28-press-release/index.md:66
+msgid "EU OS"
+msgstr "EU OS"
+
+#: content/press/2025-05-28-press-release/index.md:67
+msgid "FOSS United Foundation"
+msgstr "FOSS United Foundation"
+
+#: content/press/2025-05-28-press-release/index.md:68
+msgid "Free Software Foundation Europe"
+msgstr "Фондация за свободен софтуер Европа"
+
+#: content/press/2025-05-28-press-release/index.md:69
+msgid "GNOME Foundation"
+msgstr "Фондация GNOME"
+
+#: content/press/2025-05-28-press-release/index.md:70
+msgid "iFixit"
+msgstr "iFixit"
+
+#: content/press/2025-05-28-press-release/index.md:71
+msgid "Italian Linux Society"
+msgstr "Италианско Linux дружество"
+
+#: content/press/2025-05-28-press-release/index.md:72
+msgid "KDE e.V."
+msgstr "KDE e.V."
+
+#: content/press/2025-05-28-press-release/index.md:73
+msgid "KDE España"
+msgstr "KDE España"
+
+#: content/press/2025-05-28-press-release/index.md:74
+msgid "Kubuntu Focus"
+msgstr "Kubuntu Focus"
+
+#: content/press/2025-05-28-press-release/index.md:75
+msgid "Nextcloud"
+msgstr "Nextcloud"
+
+#: content/press/2025-05-28-press-release/index.md:76
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: content/press/2025-05-28-press-release/index.md:77
+msgid "Open Source Initiative"
+msgstr "Open Source Initiative"
+
+#: content/press/2025-05-28-press-release/index.md:78
+msgid "Repair Cafe International"
+msgstr "Repair Cafe International"
+
+#: content/press/2025-05-28-press-release/index.md:79
+msgid "Right To Repair Europe"
+msgstr "Право на ремонт Европа"
+
+#: content/press/2025-05-28-press-release/index.md:80
+msgid "Runder Tisch Reparatur"
+msgstr "Runder Tisch Reparatur"
+
+#: content/press/2025-05-28-press-release/index.md:81
+msgid "Software Freedom Conservancy"
+msgstr "Software Freedom Conservancy"
+
+#: content/press/2025-05-28-press-release/index.md:82
+msgid "The Document Foundation"
+msgstr "The Document Foundation"
+
+#: content/press/2025-05-28-press-release/index.md:83
+msgid "Zorin OS"
+msgstr "Zorin OS"
+
+#: content/press/2025-05-28-press-release/index.md:85
+msgid ""
+"The End Of 10 campaign started in November 2024 at the South Tyrol Free "
+"Software Conference and has been attracting many new contributors since. "
+"This campaign is made possible by the enthusiastic contributions of a "
+"dedicated team. Learn more about the team at:"
+msgstr ""
+"Кампанията End Of 10 стартира през ноември 2024 г. на конференцията за "
+"свободен софтуер в Южен Тирол и оттогава привлича много нови сътрудници. "
+"Тази кампания е възможна благодарение на ентусиазираните приноси на "
+"всеотдайна екип. Научете повече за екипа на:"
+
+#: content/press/2025-05-28-press-release/index.md:87
+msgid "https://endof10.org/team/"
+msgstr "https://endof10.org/team/"
+
+#: content/press/2025-05-28-press-release/index.md:89
+msgid ""
+"And what if you already purchased a new computer with Windows pre-installed "
+"but want to install Linux on it instead? If you prefer using Linux or "
+"another OS, you still pay for Windows, even if you don't use it. That's "
+"unfair and often non-transparent. Refund4Freedom is an initiative from the "
+"Free Software Foundation Europe that defends consumers' right to choose "
+"their operating system and get refunds for unused pre-installed software — "
+"especially Microsoft Windows — on new computers. The Refund4Freedom campaign"
+" launches 29 May to help users get refunds for software they don't want. The"
+" initiative focuses first on the Italian market, but will be extended to "
+"other locations in the near future. Learn more here:"
+msgstr ""
+"И какво ако вече сте закупили нов компютър с предварително инсталиран Windows,"
+" но искате да инсталирате Linux вместо това? Ако предпочитате да използвате "
+"Linux или друга ОС, все пак плащате за Windows, дори ако не го използвате. "
+"Това е несправедливо и често нетранспарентно. Refund4Freedom е инициатива на "
+"Фондацията за свободен софтуер Европа, която защитава правото на "
+"потребителите да избират своя операционна система и да получават възстановяван"
+"е "
+"на средства за неизползван предварително инсталиран софтуер — особено "
+"Microsoft Windows — на нови компютри. Кампанията Refund4Freedom стартира на "
+"29 май, за да помогне на потребителите да получат възстановяване на средства "
+"за софтуер, който не искат. Инициативата се фокусира първо на италианския "
+"пазар, но ще бъде разширена на други локации в близко бъдеще. Научете повече "
+"тук:"
+
+#: content/press/2025-05-28-press-release/index.md:91
+msgid "https://refund4freedom.org/"
+msgstr "https://refund4freedom.org/"
+
+#: content/press/2025-05-28-press-release/index.md:93
+msgid ""
+"Want future hardware to allow you to install any software you want? It's "
+"your hardware, after all! Device Neutrality, an initiative also from the "
+"Free Software Foundation Europe, aims to enable end-users to bypass "
+"gatekeepers to have a non-discriminatory use of software, including Free & "
+"Open Source Software, on their devices. Learn more here:"
+msgstr ""
+"Искате ли бъдещият хардуер да ви позволява да инсталирате всякакъв софтуер, "
+"който желаете? В края на краищата това е вашият хардуер! Неутралността на "
+"устройствата, инициатива също от Фондацията за свободен софтуер Европа, цели "
+"да позволи на крайните потребители да заобикалят пазачите, за да имат "
+"недискриминационна употреба на софтуер, включително свободен софтуер с "
+"отворен код, на техните устройства. Научете повече тук:"
+
+#: content/press/2025-05-28-press-release/index.md:95
+msgid "https://fsfe.org/activities/deviceneutrality/index"
+msgstr "https://fsfe.org/activities/deviceneutrality/index"
+
+#: content/press/2025-10-04-extended-campaign/index.md:0
+msgid ""
+"Ten Days until the End of Windows 10. Sort of. Why Wait, Install Linux "
+"Today!"
+msgstr ""
+"Десет дни до края на Windows 10. По някакъв начин. Защо да чакате, "
+"инсталирайте Linux днес!"
+
+#: content/press/2025-10-04-extended-campaign/index.md:7
+msgid ""
+"Tuesday 14 October is just ten days away. This means it's the end of free "
+"security updates for Windows 10 users. Well, sort of."
+msgstr ""
+"Вторник, 14 октомври, е само на десет дни. Това означава край на безплатните "
+"актуализации за сигурност за потребителите на Windows 10. Е, по някакъв "
+"начин."
+
+#: content/press/2025-10-04-extended-campaign/index.md:11
+msgid ""
+"Microsoft has changed its tune several times this year and they are now "
+"offering \"free\" extended support for Windows 10 for one year until 14 "
+"October 2026. These security updates are marketed as being free of charge, "
+"but there's a hitch (because of course there is): you need to [link your "
+"Windows 10 software to an online Microsoft "
+"account](https://www.heise.de/en/news/Microsoft-Windows-10-security-updates-"
+"free-of-charge-in-Europe-10670977.html), although this option only applies "
+"in the [European Economic Area](https://www.euroconsumers.org/wp-"
+"content/uploads/2025/09/Euroconsumers_vs_Microsoft_092025.pdf). Living "
+"elsewhere? Then you "
+"[pay](https://www.theregister.com/2025/09/26/not_in_eu_and_want/) with so-"
+"called Microsoft Reward Points or by uploading your data to Microsoft's "
+"cloud. Or fork over $30 to Microsoft."
+msgstr ""
+"Microsoft промени тона си няколко пъти тази година и сега предлага "
+"\"безплатна\" разширена поддръжка за Windows 10 за една година до 14 "
+"октомври 2026 г. Тези актуализации за сигурност се рекламират като безплатни, "
+"но има уловка (разбира се, че има): трябва да [свържете вашия софтуер "
+"Windows 10 с онлайн Microsoft "
+"акаунт](https://www.heise.de/en/news/Microsoft-Windows-10-security-updates-"
+"free-of-charge-in-Europe-10670977.html), въпреки че тази опция се прилага "
+"само в [Европейското икономическо "
+"пространство](https://www.euroconsumers.org/wp-content/uploads/2025/09/"
+"Euroconsumers_vs_Microsoft_092025.pdf). Живеете другаде? Тогава "
+"[плащате](https://www.theregister.com/2025/09/26/not_in_eu_and_want/) с "
+"т.нар. Microsoft Reward Points или чрез качване на вашите данни в облака на "
+"Microsoft. Или изкарвате $30 на Microsoft."
+
+#: content/press/2025-10-04-extended-campaign/index.md:13
+msgid "None of those options are really free, are they?"
+msgstr "Нито една от тези опции не е наистина безплатна, нали?"
+
+#: content/press/2025-10-04-extended-campaign/index.md:15
+msgid ""
+"The good news is that the End Of 10 campaign does not need to end either, "
+"not yet! For those Windows 10 users who haven't already, there's time to do "
+"the last Windows update in your life — upgrade to Linux!"
+msgstr ""
+"Добрата новина е, че кампанията End Of 10 също не трябва да приключва, все "
+"още не! За тези потребители на Windows 10, които все още не са го направили, "
+"има време да направите последната актуализация на Windows в живота си — "
+"надградете към Linux!"
+
+#: content/press/2025-10-04-extended-campaign/index.md:17
+msgid ""
+"If you make the change now you won't need to link your computer to a "
+"Microsoft account, pay Reward Points, upload your private data to corporate "
+"servers, or waste your hard-earned money on unnecessary fees."
+msgstr ""
+"Ако направите промяната сега, няма да се налага да свързвате компютъра си с "
+"Microsoft акаунт, да плащате Reward Points, да качвате личните си данни на "
+"корпоративни сървъри или да губите трудно спечелените си пари за ненужни "
+"такси."
+
+#: content/press/2025-10-04-extended-campaign/index.md:19
+msgid ""
+"Find out what [free as in freedom](https://www.gnu.org/philosophy/free-"
+"sw.en.html) is really like with Free & Open Source Software. No licensing "
+"costs for software updates or new features. No online account required to "
+"use your device. No genAI bundled with your operating system. Your operating"
+" system is more private, by default. You decide when to update and restart "
+"your computer. You get software updates for as long as you need, or until "
+"your hardware breaks. And much more! This is what software freedom looks "
+"like."
+msgstr ""
+"Разберете какво е [свободата като в свободата](https://www.gnu.org/"
+"philosophy/free-sw.en.html) наистина със свободен софтуер с отворен код. "
+"Няма разходи за лицензи за актуализации на софтуера или нови функции. Не се "
+"изисква онлайн акаунт за използване на вашето устройство. Няма genAI, "
+"включен във вашата операционна система. Вашата операционна система е по-"
+"поверителна по подразбиране. Вие решавате кога да актуализирате и да "
+"рестартирате компютъра си. Получавате актуализации на софтуера толкова дълго, "
+"колкото имате нужда, или докато вашият хардуер се повреди. И много повече! "
+"Това е свободата на софтуера."
+
+#: content/press/2025-10-04-extended-campaign/index.md:21
+msgid ""
+"As a spokesperson from Germany's [Federal Office for Information "
+"Security](https://en.wikipedia.org/wiki/Federal_Office_for_Information_Securit"
+"y)"
+" (BSI) [said](https://www.heise.de/en/news/Microsoft-Windows-10-security-"
+"updates-free-of-charge-in-Europe-10670977.html): \"This [extension] gives "
+"users a little more time to endeavor to use an operating system that is "
+"supplied with security updates in the long term\"."
+msgstr ""
+"Както каза представител на германския [Федерален офис за информационна "
+"сигурност](https://en.wikipedia.org/wiki/"
+"Federal_Office_for_Information_Security) (BSI) "
+"[каза](https://www.heise.de/en/news/Microsoft-Windows-10-security-updates-"
+"free-of-charge-in-Europe-10670977.html): \"Това [разширение] дава на "
+"потребителите малко повече време да се постараят да използват операционна "
+"система, която се снабдява с актуализации за сигурност в дългосрочен план\"."
+
+#: content/press/2025-10-04-extended-campaign/index.md:23
+msgid "Well said, we couldn't agree more!"
+msgstr "Добре казано, не можем да бъдем по- съгласни!"
+
+#: content/press/2025-10-04-extended-campaign/index.md:25
+msgid ""
+"At the End Of 10 campaign website, you will find places and events near you "
+"where people will help you get started using a modern, feature-rich, and "
+"independent operating system which is supplied with security updates in the "
+"long term: Linux."
+msgstr ""
+"На уебсайта на кампанията End Of 10 ще намерите места и събития близо до "
+"вас, където хората ще Ви помогнат да започнете да използвате модерна, "
+"богата на функции и независима операционна система, която се снабдява с "
+"актуализации за сигурност в дългосрочен план: Linux."
+
+#: content/press/2025-10-04-extended-campaign/index.md:27
+msgid "Find someone to help you install Linux today: <https://endof10.org/>"
+msgstr ""
+"Намерете някой да ви помогне да инсталирате Linux днес: <https://endof10.org/>"
+
+#: content/press/_index.md:0
+msgid "Press"
+msgstr "Преса"
+
+#: content/press/_index.md:0
+msgid "Press releases about the End of 10 campaign"
+msgstr "Прессъобщения за кампанията End of 10"
+
+#: content/team.md:0
+msgid "Team behind End of 10"
+msgstr "Екипът зад End of 10"
+
+#: content/team.md:0
+msgid "Team"
+msgstr "Екип"
+
+#: content/team.md:9
+msgid ""
+"This campaign has been made possible by the enthusiastic contributions of "
+"the following people (listed in alphabetical order by last name):"
+msgstr ""
+"Тази кампания бе възможна благодарение на ентусиазираните приноси на "
+"следните хора (изброени по азбучен ред по фамилия):"
+
+#: content/team.md:11
+msgid "Øjvind Fritjof Arnfred (Danish Translation)"
+msgstr "Øjvind Fritjof Arnfred (Датски превод)"
+
+#: content/team.md:12
+msgid "Albert Astals Cid (Translation)"
+msgstr "Albert Astals Cid (Превод)"
+
+#: content/team.md:13
+msgid "Tobias Bernard (GNOME Design Team)"
+msgstr "Tobias Bernard (Екип за дизайн на GNOME)"
+
+#: content/team.md:14
+msgid "Xavier Besnard (French Translation)"
+msgstr "Xavier Besnard (Френски превод)"
+
+#: content/team.md:15
+msgid "Joseph P. De Veaugh-Geiss (KDE Eco)"
+msgstr "Joseph P. De Veaugh-Geiss (KDE Eco)"
+
+#: content/team.md:16
+msgid "Tobias Diekershoff (Outreach Events)"
+msgstr "Tobias Diekershoff (Събития за разширяване)"
+
+#: content/team.md:17
+msgid "Nico Düsing (Web Development)"
+msgstr "Nico Düsing (Уеб разработка)"
+
+#: content/team.md:18
+msgid "Finnjan Hofmann (Places/Events)"
+msgstr "Finnjan Hofmann (Места/Събития)"
+
+#: content/team.md:19
+msgid "Matjaž Jeran (Slovenian Translation)"
+msgstr "Matjaž Jeran (Словенски превод)"
+
+#: content/team.md:20
+msgid "Jannick Kremer (German Translation)"
+msgstr "Jannick Kremer (Немски превод)"
+
+#: content/team.md:21
+msgid "Bettina Louis (Outreach, Events, Lifelong learning)"
+msgstr "Bettina Louis (Разширяване, Събития, Учене през живота)"
+
+#: content/team.md:22
+msgid "Harald Reingruber (Repair Cafe and FOSS Supporter)"
+msgstr "Harald Reingruber (Кафене за ремонт и поддръжник на FOSS)"
+
+#: content/team.md:23
+msgid "Bernard Sadaka (Outreach)"
+msgstr "Bernard Sadaka (Разширяване)"
+
+#: content/team.md:24
+msgid "Gernot Schiller (Campaign Support)"
+msgstr "Gernot Schiller (Поддръжка на кампанията)"
+
+#: content/team.md:25
+msgid "Carl Schwan (Web Development)"
+msgstr "Carl Schwan (Уеб разработка)"
+
+#: content/team.md:26
+msgid "Carolina Silva Rode (Outreach Latin America)"
+msgstr "Carolina Silva Rode (Разширяване Латинска Америка)"
+
+#: content/team.md:27
+msgid "Nicole Teale (KDE's Opt Green)"
+msgstr "Nicole Teale (Opt Green на KDE)"
+
+#: content/team.md:28
+msgid "Geoffrey Teale (Website)"
+msgstr "Geoffrey Teale (Уебсайт)"
+
+#: content/team.md:29
+msgid "Aaron Wey (Technical Support)"
+msgstr "Aaron Wey (Техническа поддръжка)"
+
+#: content/team.md:30
+msgid "Gerardo Zamudio (Outreach)"
+msgstr "Gerardo Zamudio (Разширяване)"
+
+#: content/team.md:31
+msgid "KDE Sysadmins & Translation Teams"
+msgstr "Системни администратори на KDE и екипи за превод"
+
+#: content/team.md:32
+msgid "*and many more!*"
+msgstr "*и много повече!*"
+
+#: content/team.md:34
+msgid ""
+"Have you contributed to the project but your name is missing from this page?"
+" Contact the End Of 10 team, include a link to confirm your contributions, "
+"and we will update it as soon as we can!"
+msgstr ""
+"Допринесли ли сте за проекта, но името ви липсва от тази страница? Свържете "
+"се с екипа на End Of 10, включете връзка за потвърждаване на вашите приноси "
+"и ще го актуализираме възможно най-скоро!"
+
+#. translations
+#: i18n/en.yaml:2
+msgid "Languages"
+msgstr "Езици"
+
+#. contact.website
+#: i18n/en.yaml:4
+msgid "Website"
+msgstr "Уебсайт"
+
+#. contact.telephone
+#: i18n/en.yaml:6
+msgid "Telephone"
+msgstr "Телефон"
+
+#. contact.email
+#: i18n/en.yaml:8
+msgid "Email"
+msgstr "Имейл"
+
+#. contact.costs
+#: i18n/en.yaml:10
+msgid "costs"
+msgstr "разходи"
+
+#. contact.attendance.offline
+#: i18n/en.yaml:12
+msgid "offline"
+msgstr "офлайн"
+
+#. contact.attendance.online
+#: i18n/en.yaml:14
+msgid "online"
+msgstr "онлайн"
+
+#. contact.attendance.mixed
+#: i18n/en.yaml:16
+msgid "online or offline"
+msgstr "онлайн или офлайн"
+
+#. contact.opening
+#: i18n/en.yaml:18
+msgid "opening hours: "
+msgstr "работно време: "
+
+#. event.start
+#: i18n/en.yaml:20
+msgid "The event starts at {{ . }}."
+msgstr "Събитието започва в {{ . }}."
+
+#. event.end
+#: i18n/en.yaml:22
+msgid "The event ends at {{ . }}."
+msgstr "Събитието приключва в {{ . }}."
+
+#. contact.loadMap
+#: i18n/en.yaml:24
+msgid "Load Map"
+msgstr "Зареди карта"
+
+#. contact.hideMap
+#: i18n/en.yaml:26
+msgid "Hide Map"
+msgstr "Скрий карта"
+
+#. contact.privacy
+#: i18n/en.yaml:28
+msgid ""
+"This map is provided by OpenStreetMap, see the [Privacy "
+"Policy](https://osmfoundation.org/wiki/Privacy_Policy) of their server."
+msgstr ""
+"Тази карта се предоставя от OpenStreetMap, вижте [Политиката за "
+"поверителност](https://osmfoundation.org/wiki/Privacy_Policy) на техния "
+"сървър."
+
+#. footer.license.reference
+#: i18n/en.yaml:30
+msgid "End of 10 website content"
+msgstr "Съдържание на уебсайта End of 10"
+
+#. footer.license.connect
+#: i18n/en.yaml:32
+msgid "is licensed under"
+msgstr "е лицензирано под"
+
+#. footer.footnote
+#: i18n/en.yaml:34
+msgid ""
+" Thanks to KDE for supporting the project by hosting the website and "
+"providing the infrastructure. You can contact the [KDE "
+"Webmasters](mailto:kde-www@kde.org) (public mailing list) or see the "
+"[Privacy Policy](https://kde.org/privacypolicy/) and [Legal "
+"Notices](https://kde.org/community/whatiskde/impressum/) for more "
+"information."
+msgstr ""
+" Благодарим на KDE за подкрепата на проекта чрез хостване на уебсайта и "
+"предоставяне на инфраструктурата. Можете да се свържете с [уеб майсторите на "
+"KDE](mailto:kde-www@kde.org) (публичен пощенски списък) или да видите "
+"[Политиката за поверителност](https://kde.org/privacypolicy/) и [Правни "
+"бележки](https://kde.org/community/whatiskde/impressum/) за повече "
+"информация."
+
+#. search.placeholder
+#: i18n/en.yaml:36
+msgid "Search…"
+msgstr "Търсене…"
+
+#. news.read-more
+#: i18n/en.yaml:38
+msgid "Read more"
+msgstr "Прочетете повече"
+
+#. news.time
+#: i18n/en.yaml:40
+msgid "Publication time"
+msgstr "Време на публикуване"
+
+#. home.laptop.freshnewsoftware
+#: i18n/en.yaml:42
+msgid "FRESH NEW<br>SOFTWARE"
+msgstr "ЧИСТО НОВ<br>СОФТУЕР"
+
+#. home.laptop.oldcomputer
+#: i18n/en.yaml:44
+msgid "YOUR OLD<br>COMPUTER"
+msgstr "ВАШИЯТ СТАР<br>КОМПЮТЪР"
