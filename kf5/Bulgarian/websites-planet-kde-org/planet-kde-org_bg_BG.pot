@@ -1,0 +1,52 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-planet-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2025-12-22 02:01+0000\n"
+"PO-Revision-Date: 2026-02-09 16:00+0200\n"
+"Last-Translator: Blagovest Petrov <blagovest@petrovs.info>\n"
+"Language-Team: Bulgarian <kde-i18n-doc@kde.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: config.yaml:0
+msgid "Planet KDE"
+msgstr "KDE Планета"
+
+#: config.yaml:0
+msgid "Planet KDE site providing newest news from the KDE Project"
+msgstr "Сайтът KDE Планета предоставя най-новите новини от проекта KDE"
+
+#: config.yaml:0
+msgid "Add your own feed"
+msgstr "Добавете вашия собствен канал"
+
+#. welcome
+#: i18n/en.yaml:2
+msgid "Welcome to Planet KDE"
+msgstr "Добре дошли в KDE Планета"
+
+#. introduction
+#: i18n/en.yaml:4
+msgid ""
+"This is a feed aggregator that collects what the contributors to the [KDE "
+"community](https://kde.org) are writing on their respective blogs, in "
+"different languages"
+msgstr ""
+"Това е агрегатор на емисии, който събира публикациите на участниците в "
+"[общността на KDE](https://kde.org) от техните съответни блогове, на "
+"различни езици"
+
+#. down-post
+#: i18n/en.yaml:6
+msgid "Go down one post"
+msgstr "Отидете на една публикация надолу"
+
+#. up-post
+#: i18n/en.yaml:8
+msgid "Go up one post"
+msgstr "Отидете на една публикация нагоре"
